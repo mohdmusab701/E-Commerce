@@ -60,17 +60,10 @@
 - **Helmet** - Security headers
 - **CORS** - Cross-origin resource sharing
 
-### DevOps
-- **Docker** - Containerization
-- **Docker Compose** - Multi-container orchestration
-- **GitHub Actions** - CI/CD
-- **Nginx** - Frontend server (production)
-
 ## 📋 Prerequisites
 
 - **Node.js** 18+ and npm
 - **MongoDB** 4.4+ (or use Docker)
-- **Docker** and Docker Compose (optional, for containerized setup)
 - **Stripe Account** for payment processing
 
 ## 🔧 Installation & Setup
@@ -236,9 +229,6 @@ npm start
 # Ensure all environment variables are set
 ```
 
-### Docker Production
-```bash
-docker-compose -f docker-compose.yml up -d
 ```
 
 ## 📁 Project Structure
@@ -269,21 +259,13 @@ E-Commerce/
 └── README.md
 ```
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Built with ❤️ using the MERN stack
+Built with Mohd Musab using the MERN stack
 
 ## 🙏 Acknowledgments
 
