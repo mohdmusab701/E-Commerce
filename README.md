@@ -2,10 +2,6 @@
 
 🛒 A full-stack e-commerce application built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring modern design, secure authentication, Stripe payment integration, and comprehensive admin dashboard.
 
-![MERN Stack](https://img.shields.io/badge/Stack-MERN-green)
-![License](https://img.shields.io/badge/License-MIT-blue)
-![Node](https://img.shields.io/badge/Node-18%2B-brightgreen)
-![React](https://img.shields.io/badge/React-18-blue)
 
 ## ✨ Features
 
@@ -30,15 +26,13 @@
 - 🎨 **Premium UI** with Tailwind CSS and glassmorphism effects
 - 🔐 **Secure** with bcrypt password hashing and HTTP-only cookies
 - 📱 **Fully Responsive** design
-- 🐳 **Docker Support** for easy deployment
-- 🔄 **CI/CD Pipeline** with GitHub Actions
 - 🌐 **RESTful API** with proper error handling
 - 💾 **MongoDB** with Mongoose ODM
 
 ## 🚀 Tech Stack
 
 ### Frontend
-- **React 18** - UI library
+- **React - UI library
 - **Vite** - Build tool
 - **Redux Toolkit** - State management
 - **React Router v6** - Routing
@@ -62,7 +56,7 @@
 
 ## 📋 Prerequisites
 
-- **Node.js** 18+ and npm
+- **Node.js**   npm
 - **MongoDB** 4.4+ (or use Docker)
 - **Stripe Account** for payment processing
 
